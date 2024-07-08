@@ -47,3 +47,9 @@ The monitoring EC2 instance runs:
 - Set up comprehensive monitoring to maintain the health and performance of the system.
 
 This project demonstrates the integration of DevOps and security practices (DevSecOps) in deploying a complex application, ensuring both efficiency and security throughout the development and deployment processes.
+
+
+![Screenshot from 2024-07-08 14-24-27](https://github.com/AtharvaNawathe/DevSecOps---Netflix-Clone/assets/63600324/1645a093-05ab-4174-8c0f-695b40c14bdc)
+![Screenshot from 2024-07-08 14-24-18](https://github.com/AtharvaNawathe/DevSecOps---Netflix-Clone/assets/63600324/68503afa-407e-4c14-8fe2-c8997cb65cea)
+![Screenshot from 2024-07-08 14-24-01](https://github.com/AtharvaNawathe/DevSecOps---Netflix-Clone/assets/63600324/e8891d4b-700f-491a-be24-ac5b5ee102c3)
+
